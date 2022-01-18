@@ -33,6 +33,6 @@ stages:
         space: "dev"
         credentialsId: "cfdeploy" # set this to 'cfdeploy'
         appName: ""
-        mtaDeployParameters: "-f --version-rule ALL"
-      artifactPrepareVersion:
-        versioningType: "cloud_noTag"
+      mtaDeployParameters: "-f --version-rule ALL"
+    artifactPrepareVersion:
+      versioningType: "cloud_noTag"
