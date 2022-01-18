@@ -3,5 +3,6 @@
     "**/.gitignore": true,
     "**/.git": true,
     "**/.vscode": true
-  }
+},
+"[yaml].editor.defaultFormatter": "redhat.vscode-yaml"
 }
